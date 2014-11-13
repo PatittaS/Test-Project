@@ -23,6 +23,8 @@ def caltdee(excer):
             return str(int(bmr * 1.375)) + ' kcal'
         else:
             return str(int(bmr * 1.2)) + ' kcal'
+            
+            blaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 print caltdee(raw_input())
 
 
